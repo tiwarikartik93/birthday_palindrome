@@ -1,0 +1,19 @@
+body{
+    background-color: #1F2937;
+    text-align: center;
+    color: white;
+}
+
+label, input, button, div{
+    display: block;
+    margin: auto;
+}
+
+label{
+    font-size: larger;
+}
+
+input{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
